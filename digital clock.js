@@ -11,7 +11,7 @@ function clock() {
     "September",
     "October",
     "November",
-    "December",
+    "december",
   ];
   var dayNames = [
     "Sunday",
